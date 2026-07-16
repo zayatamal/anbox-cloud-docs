@@ -9,11 +9,19 @@ myst:
 
 Anbox Cloud documentation’s navigational structure, style, and content follows the Diátaxis systematic framework for technical documentation authoring. So the information is categorized into tutorials, how-to guides, reference material, and explanatory text. See [Diátaxis](https://diataxis.fr/).
 
-This product-specific style guide lists any extra guidelines or deviations from the [Ubuntu style guide](https://docs.ubuntu.com/styleguide/en).
+This product-specific style guide lists any extra guidelines or deviations from the [Ubuntu style guide](https://documentation.ubuntu.com/style-guide/).
 
 ## Format
 
 Anbox Cloud documentation is written in a combination of MyST and Markdown syntax.
+
+## Spelling
+
+As per the Ubuntu style guide, use US English spelling throughout the documentation. Common examples:
+
+- `-ize` instead of `-ise` (initialize, not initialise)
+- `-or` instead of `-our` (behavior, not behaviour)
+- `-se` instead of `-ce` for verbs (license, not licence)
 
 ## General
 
@@ -33,9 +41,17 @@ Anbox Cloud documentation is written in a combination of MyST and Markdown synta
 
 ## Section titles
 
+- Use sentence case for all headings. Capitalize only the first word and proper nouns (product names, company names, personal names).
+
+  **Use:** Create a virtual device
+
+  **Don't use:** Create A Virtual Device
+
 - Insert a blank line after a section title.
 - Do not skip heading levels when creating sections.
 - Avoid using multiple section titles sequentially without any text between them.
+- Headings should not end with a period.
+- Avoid links in headings.
 - Avoid manual HTML anchors, links to section titles can be picked up from the page-level table of contents.
 
 ## Cross references
@@ -53,6 +69,14 @@ Anbox Cloud documentation adheres to the following convention when naming explic
 - Section targets in any topic: `sec-xxx-yyy`
 
 This helps in maintaining consistency in target naming and creating unique target names.
+
+## Lists
+
+- Use **numbered lists** only when the order of items matters, such as in step-by-step instructions or sequences.
+- Use **bulleted lists** for most other situations because they are easier to scan and don't imply a sequence.
+- Ensure that bulleted lists are definitive lists, not examples or subsets of a category.
+- In numbered lists, use `1.` for all items to generate step numbers automatically.
+- Use `-` for unordered lists. When using nested lists, you can use `*` for the nested level.
 
 ## Admonishments
 
