@@ -8,7 +8,7 @@ myst:
 # Addons
 
 ```{important}
-These guides apply to images with containerized Android (`jammy:*`). Addons are not supported for images with virtualized Android. See {ref}`exp-android-execution-environments` for details.
+These guides apply to images with containerized Android (`jammy:*`). Addons are not supported for images with virtualized Android. See {ref}`exp-android-execution-models` for details.
 ```
 
 Addons customize the images used for instances. You can use addons to:
