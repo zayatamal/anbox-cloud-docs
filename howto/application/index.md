@@ -30,6 +30,8 @@ Once ready, applications can be streamed to users or tested with automated UI fr
 
 ## List and delete
 
+View all registered applications or permanently remove ones you no longer need.
+
 - {ref}`howto-list-applications`
 - {ref}`howto-delete-application`
 

@@ -7,7 +7,7 @@ myst:
 (explanation)=
 # Explanation
 
-The explanatory and conceptual guides in this section provide a better understanding of Anbox Cloud and enable you to get the most out of it.
+These topics explain how Anbox Cloud works, what its components do, and how they fit together.
 
 ## Anbox Cloud: Architecture and components
 
@@ -42,7 +42,7 @@ Identities, groups, and permissions control access in Anbox Cloud.
 
 ## Deploying Anbox Cloud
 
-Plan your deployment with guidance on capacity, performance, rendering, and custom image options.
+Plan your deployment with guidance on capacity requirements, resource presets, rendering configuration, and whether you need custom Android images.
 
 - {ref}`exp-production-planning`
 - {ref}`exp-capacity-planning`

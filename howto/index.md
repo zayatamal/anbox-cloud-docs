@@ -20,7 +20,7 @@ Deploy Anbox Cloud on a single machine with the Appliance or at scale with a cha
 
 ## Using Anbox Cloud
 
-Manage Android workloads by working with images, applications, instances and more.
+Build applications from images, manage instances, extend behavior with addons, stream sessions to users and more.
 
 - {ref}`howto-manage-images`
 - {ref}`howto-manage-applications`
@@ -43,20 +43,20 @@ Distribute the load of Anbox Cloud over several machines in a cluster, share app
 
 ## Monitoring Anbox Cloud
 
-Anbox Cloud exposes metrics through API endpoints for integration with external observability tools.
+Connect your observability stack to the metrics endpoints that Anbox Cloud exposes.
 
 - {ref}`howto-monitor-anbox`
 
 ## Troubleshooting Anbox Cloud
 
-When something goes wrong, these guides help you diagnose the issue and collect the information needed for a bug report.
+When something goes wrong, diagnose the issue and collect the information needed for a bug report with these guides.
 
 - {ref}`howto-ts-anbox-cloud`
 
 
 If you are new to Anbox Cloud, start with the {ref}`tutorials` for step-by-step instructions. 
-For technical details, see the {ref}`reference`. 
-For background information and concepts, refer to {ref}`explanation`.
+For technical details, see {ref}`reference`. 
+For background information and concepts, see {ref}`explanation`.
 
 ```{toctree}
 :hidden:

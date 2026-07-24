@@ -7,11 +7,11 @@ myst:
 (howto-instance)=
 # Manage instances
 
-Instances are the running workloads in Anbox Cloud. These guides walk you through creating, accessing and managing instances throughout their lifecycle.
+Instances are the running workloads in Anbox Cloud. These guides walk you through managing instances throughout their lifecycle.
 
 ## Create and manage instances
 
-Instances can be created from applications or images, configured, copied, or removed as needed.
+Create instances from applications or images, configure them, list or copy existing ones, and remove those you no longer need.
 
 - {ref}`howto-create-instance`
 - {ref}`howto-configure-instance`

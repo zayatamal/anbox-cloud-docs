@@ -7,7 +7,7 @@ myst:
 (reference)=
 # Reference
 
-The reference guides in this section provide additional information about using Anbox Cloud, release information, available configuration options, performance metrics and benchmarks.
+These reference guides provide additional information about using Anbox Cloud, release information, available configuration options, performance metrics and benchmarks.
 
 ## Releases and versions
 
@@ -17,9 +17,9 @@ Anbox Cloud releases, the product roadmap, deprecations, supported product versi
 - {ref}`ref-deprecation-notes`
 - {ref}`ref-component-versions`
 
-## Usage
+## Requirements and compatibility
 
-Reference information about Anbox Cloud requirements, supported features, SDKs, images, APIs, network ports, addons, and hooks.
+Supported platforms, image types, rendering resources, codecs, Android features, and version compatibility.
 
 - {ref}`ref-requirements`
 - {ref}`Anbox Cloud images <ref-provided-images>`
@@ -29,6 +29,11 @@ Reference information about Anbox Cloud requirements, supported features, SDKs, 
 - {ref}`ref-android-features`
 - {ref}`ref-compatibility-considerations`
 - {ref}`AOSP vs AAOS images <ref-aosp-aaos>`
+
+## SDKs, interfaces, and hooks
+
+Client SDKs, network ports, addon manifests, hooks, and stream page action definitions.
+
 - {ref}`ref-sdks`
 - {ref}`ref-network-ports`
 - {ref}`ref-addon-manifest`
@@ -86,14 +91,16 @@ Security policies and fixes for reported vulnerabilities.
 - {ref}`ref-security-notices`
 - {ref}`ref-security-policy`
 
-## Other
+## Glossary and legal
 
-- {ref}`ref-license-information`
+Product terminology and third-party license information.
+
 - {ref}`ref-glossary`
+- {ref}`ref-license-information`
 
 If you are new to Anbox Cloud, start with the {ref}`tutorials` for step-by-step instructions.
-For operational tasks, see the {ref}`how-to-guides`.
-For background information and concepts, refer to {ref}`explanation`.
+For operational tasks, see {ref}`how-to-guides`.
+For background information and concepts, see {ref}`explanation`.
 
 ```{toctree}
 :hidden:
