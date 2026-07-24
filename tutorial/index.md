@@ -7,7 +7,7 @@ myst:
 (tutorials)=
 # Tutorials
 
-Follow these step-by-step walkthroughs to install the {term}`Anbox Cloud Appliance`, launch Android instances, and build a streaming client.
+The tutorials in this section guide you through the workflows of {term}`Anbox Cloud Appliance`, from installation to running and streaming Android instances.
 
 ## Containerized Android
 
