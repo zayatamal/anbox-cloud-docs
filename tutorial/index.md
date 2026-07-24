@@ -21,7 +21,7 @@ The tutorials in this section guide you through the workflows of {term}`Anbox Cl
 
 ## See also
 
-- Explanation: {ref}`exp-android-execution-environments`
+- Explanation: {ref}`exp-android-execution-models`
 
 ```{toctree}
 :hidden:

@@ -9,7 +9,7 @@ myst:
 
 The Anbox Cloud Appliance provides a deployment of Anbox Cloud on a single machine. It is suited for initial prototyping and small-scale deployments.
 
-If you need a charmed deployment managed with Juju, see {ref}`howto-install-anbox-cloud`. For a comparison of the Anbox Cloud Appliance and charmed Anbox Cloud, see {ref}`sec-variants`.
+If you need a charmed deployment managed by Juju, see {ref}`howto-install-anbox-cloud`. For a comparison of the Anbox Cloud Appliance and charmed Anbox Cloud, see {ref}`sec-variants`.
 
 We recommend that you first follow the {ref}`tut-installing-appliance` tutorial before installing the appliance on a cloud or CI/CD platform. The tutorial guides you through the installation process and introduces the main concepts of the Anbox Cloud Appliance.
 
