@@ -25,7 +25,7 @@ Anbox Cloud serves cloud gaming and application streaming providers, Android dev
 
     ..  slice:: Anbox Cloud
 
-        :doc:`Overview </explanation/anbox-cloud>` slice
+        :doc:`Overview </explanation/anbox-cloud>`
         :doc:`Deployment variants </explanation/anbox-cloud>`
         :doc:`Android execution models </explanation/android-execution-models>`
 
@@ -44,38 +44,38 @@ Anbox Cloud serves cloud gaming and application streaming providers, Android dev
 
     ..  slice:: Images
 
-        :doc:`Overview </explanation/images>` slice
+        :doc:`Overview </explanation/images>`
         :doc:`Manage images </howto/images/index>`
         :doc:`Provided images </reference/provided-images>`
         :doc:`Feature support by image type </reference/feature-support-by-image-type>`
 
     ..  slice:: Instances
 
-        :doc:`Overview </explanation/instances>` slice
+        :doc:`Overview </explanation/instances>`
         :doc:`Manage instances </howto/instance/index>`
         :doc:`Resource presets </explanation/resources>`
 
     ..  slice:: Applications
 
-        :doc:`Overview </explanation/applications>` slice
+        :doc:`Overview </explanation/applications>`
         :doc:`Manage applications </howto/application/index>`
         :doc:`Application manifest </reference/application-manifest>`
 
     ..  slice:: Addons
 
-        :doc:`Overview </explanation/addons>` slice
+        :doc:`Overview </explanation/addons>`
         :doc:`Manage addons </howto/addons/index>`
         :doc:`Migrate from addon hooks to system units </howto/instance/migrate-from-addon-and-app-hooks>`
 ```
 
-### Streaming Android
+### Streaming and rendering
 
 ```{eval-rst}
 ..  domain::
 
     ..  slice:: Streaming
 
-        :doc:`Overview </explanation/application-streaming>` slice
+        :doc:`Overview </explanation/application-streaming>`
         :doc:`Access the gateway </howto/stream/access-stream-gateway>`
         :doc:`Share a session </howto/instance/share-session>`
         :doc:`Supported codecs </reference/supported-codecs>`
@@ -87,7 +87,7 @@ Anbox Cloud serves cloud gaming and application streaming providers, Android dev
         :doc:`Supported GPUs </reference/supported-rendering-resources>`
 ```
 
-### Android workflows
+### Use cases
 
 ```{eval-rst}
 ..  domain::
@@ -125,7 +125,7 @@ Anbox Cloud serves cloud gaming and application streaming providers, Android dev
     ..  slice:: CLI
 
         :doc:`AMC </reference/cmd-ref/amc/ams.amc>`
-        :doc:`Anbox Cloud Appliance </reference/cmd-ref/appliance/anbox-cloud-appliance>` slice
+        :doc:`Anbox Cloud Appliance </reference/cmd-ref/appliance/anbox-cloud-appliance>`
         :doc:`AAR </reference/cmd-ref/aar/aar>`
 
     ..  slice:: APIs
@@ -137,6 +137,7 @@ Anbox Cloud serves cloud gaming and application streaming providers, Android dev
     ..  slice:: SDKs
 
         :doc:`SDK overview </reference/sdks>`
+        `Platform SDK <https://canonical.github.io/anbox-cloud.github.com/latest/anbox-platform-sdk/>`__
 ```
 
 ### Deployment lifecycle
@@ -147,7 +148,7 @@ Anbox Cloud serves cloud gaming and application streaming providers, Android dev
     ..  slice:: Deploy
 
         :doc:`Requirements </reference/requirements>`
-        :doc:`Anbox Cloud Appliance </howto/install-appliance/index>` slice
+        :doc:`Anbox Cloud Appliance </howto/install-appliance/index>`
         :doc:`Charmed deployment </howto/install/index>`
 
     ..  slice:: Configure
@@ -188,7 +189,7 @@ Anbox Cloud serves cloud gaming and application streaming providers, Android dev
 
     ..  slice:: Security
 
-        :doc:`Overview </explanation/security/index>` slice
+        :doc:`Overview </explanation/security/index>`
         :doc:`Harden your deployment </howto/anbox/harden>`
         :doc:`Set up TLS </howto/anbox/tls-for-appliance>`
         :doc:`Security policy </reference/security-policy>`
@@ -201,7 +202,7 @@ Anbox Cloud serves cloud gaming and application streaming providers, Android dev
 
     ..  slice:: Performance
 
-        :doc:`Overview </explanation/performance>` slice
+        :doc:`Overview </explanation/performance>`
         :doc:`Performance benchmarks </reference/perf-benchmarks>`
         :doc:`Run benchmarks </howto/anbox/benchmarks>`
         :doc:`GPU instance density </howto/gpu/increase-instance-density>`
