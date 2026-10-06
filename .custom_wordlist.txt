@@ -11,6 +11,7 @@ ACLs
 adb
 addon
 addons
+agentic
 allocator
 Altra
 amc
@@ -131,6 +132,7 @@ GiB
 gl
 GMS
 Golang
+goroutine
 GPG
 GPUs
 Grafana
